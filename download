@@ -1,0 +1,5 @@
+MONGODB_URI=mongodb+srv://nti_user:moh12345678990@cluster0.hmgn3n3.mongodb.net/NTI_project?appName=Cluster0
+DB_NAME=NTI_project
+PORT=3000
+JWT_SECRET=5
+JWT_EXPIRES_IN=7d
